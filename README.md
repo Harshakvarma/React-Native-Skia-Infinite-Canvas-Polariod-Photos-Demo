@@ -2,7 +2,6 @@
 
 A demonstration app showcasing how to build a high-performance infinite canvas using React Native Skia. This project implements the concepts covered in the blog post [Building an Infinite Canvas with Skia in React Native](https://robcost.com/building-an-infinite-canvas-with-skia-in-react-native/).
 
-![alt text](image.png)
 <img src="./assets/images/demo.png" alt="Demo Screenshot" width="50%" />
 
 ## Features

@@ -56,8 +56,8 @@ panX = focalX - worldX * newScale;
 
 | Package | Version |
 |---|---|
-| `@shopify/react-native-skia` | `^2.0.0-next.4` |
-| `react-native-reanimated` | `~3.17.4` |
+| `@shopify/react-native-skia` | `^2.6.0` |
+| `react-native-reanimated` | `~3.19.1` |
 | `react-native-gesture-handler` | `~2.24.0` |
 | `expo-router` | `~5.1.5` |
 | `react-native` | `^0.79.5` |
